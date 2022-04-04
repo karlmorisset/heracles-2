@@ -35,4 +35,4 @@ You will do almost the same thing to manage this time a shield. The steps are vo
 
 ## Ready to fight.
 
-Relaunch the fight with `node index.js`, you now do a lot more damage and you are better protected, you should win the fight without too much difficulty!
+Instanciate a new fighter "🐗 The Erymanthian boar" and relaunch the fight with node index.js, you now do a lot more damage and you are better protected, you should win the fight without too much difficulty!

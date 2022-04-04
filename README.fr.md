@@ -35,4 +35,4 @@ Tu vas refaire quasiment la même chose pour gérer cette fois-ci un bouclier. L
 
 ## Prêt au combat.
 
-Relance le combat avec `node index.js`, tu fais maintenant beaucoup plus de dégâts et tu es mieux protégé, tu devrais gagner le combat sans trop de difficultés !
+Instancie un nouveau combattant "🐗 LE sanglier d'Érymanthe" et relance le combat avec `node index.js`, tu fais maintenant beaucoup plus de dégâts et tu es mieux protégé, tu devrais gagner le combat sans trop de difficultés !

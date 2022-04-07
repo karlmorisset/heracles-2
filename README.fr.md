@@ -28,11 +28,11 @@ Créé tout d'abord une méthode `getDamage()`. Celle-ci doit retourner la force
 Tu vas refaire quasiment la même chose pour gérer cette fois-ci un bouclier. Les étapes sont ici volontairement données dans les grandes lignes.
 
 1. Créé une classe `Shield` avec une propriété `protection` initialisée à 10.
-2. Dans `Fighter`, ajoute une propriété `shield`. 
+2. Dans `Fighter`, ajoute une propriété `shield`.
 3. Puis créé une méthode `getDefense()`, additionnant la dextérité et la protection du bouclier (si le héros en porte un). Cette méthode sera également utilisée dans `fight()` (à la place du simple appel à `defender.dexterity`) afin que le bouclier puisse jouer son rôle protecteur.
 4. Comme pour l'arme, pense à instancier un bouclier et à l'associer à Héraclès.
 
 
 ## Prêt au combat.
 
-Instancie un nouveau combattant "🐗 LE sanglier d'Érymanthe" et relance le combat avec `node index.js`, tu fais maintenant beaucoup plus de dégâts et tu es mieux protégé, tu devrais gagner le combat sans trop de difficultés !
+Instancie un nouveau combattant "🐗 Le sanglier d'Érymanthe" avec une attaque de 25 et une défense de 12 et relance le combat avec `node index.js`, tu fais maintenant beaucoup plus de dégâts et tu es mieux protégé, tu devrais gagner le combat sans trop de difficultés !

@@ -19,7 +19,6 @@ class Fighter {
         defender.life = Math.max(defender.life - damages, 0);
     }
 
-
     // Generate a random value between 1 and max
     // Génère une valeur aléatoire entre 1 et max
     getRandomInt(max) {
